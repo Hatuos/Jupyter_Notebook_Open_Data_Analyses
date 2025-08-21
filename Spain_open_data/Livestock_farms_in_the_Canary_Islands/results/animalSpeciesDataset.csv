@@ -1,0 +1,439 @@
+﻿especie_nombre;raza_nombre;tipo_animal_ganado_nombre
+Abejas;Buckfast;Estante
+Abejas;Buckfast;Trashumante
+Abejas;Desconocido;Estante
+Abejas;Desconocido;Trashumante
+Abejas;Híbrida;Estante
+Abejas;Híbrida;Trashumante
+Abejas;Italiana;Trashumante
+Abejas;Negra Canaria;Estante
+Abejas;Negra Canaria;Trashumante
+Asnos;Andaluz;Animales con menos de 6 meses
+Asnos;Andaluz;Animales mayores de 12 meses y menores de 36 meses
+Asnos;Andaluz;Animales mayores de 6 meses y menores de 12 meses
+Asnos;Andaluz;Hembras de vientre con más de 36 meses
+Asnos;Andaluz;No reproductores con más de 36 meses
+Asnos;Andaluz;Sementales con más de 36 meses
+Asnos;Asno de las Encartaciones;No reproductores con más de 36 meses
+Asnos;Catalan;Hembras de vientre con más de 36 meses
+Asnos;Catalan;Sementales con más de 36 meses
+Asnos;Majorera;Animales con menos de 6 meses
+Asnos;Majorera;Animales mayores de 12 meses y menores de 36 meses
+Asnos;Majorera;Animales mayores de 6 meses y menores de 12 meses
+Asnos;Majorera;Hembras de vientre con más de 36 meses
+Asnos;Majorera;No reproductores con más de 36 meses
+Asnos;Majorera;Sementales con más de 36 meses
+Asnos;Mallorquina;Hembras de vientre con más de 36 meses
+Asnos;Mestiza;Animales con menos de 6 meses
+Asnos;Mestiza;Animales mayores de 12 meses y menores de 36 meses
+Asnos;Mestiza;Animales mayores de 6 meses y menores de 12 meses
+Asnos;Mestiza;Hembras de vientre con más de 36 meses
+Asnos;Mestiza;No reproductores con más de 36 meses
+Asnos;Mestiza;Sementales con más de 36 meses
+Asnos;Zamorano-Leonés;Hembras de vientre con más de 36 meses
+Asnos;Zamorano-Leonés;No reproductores con más de 36 meses
+Avestruces;Desconocido;Granjas de cría para carne
+Avestruces;Desconocido;Granjas de producción para carne
+Bovinos;Angus;Cebo
+Bovinos;Angus;Reproductores macho
+Bovinos;Asturiana de la Montaña;Reproductoras hembra
+Bovinos;Asturiana de los Valles;Cebo
+Bovinos;Asturiana de los Valles;Reproductoras hembra
+Bovinos;Asturiana de los Valles;Reproductores macho
+Bovinos;Blanc Blue Belge (BBB);Cebo
+Bovinos;Blanc Blue Belge (BBB);Reposición
+Bovinos;Blanc Blue Belge (BBB);Reproductoras hembra
+Bovinos;Blonde D'Aquitaine;Cebo
+Bovinos;Blonde D'Aquitaine;Reproductoras hembra
+Bovinos;Blonde D'Aquitaine;Reproductores macho
+Bovinos;Braunvieh;Cebo
+Bovinos;Braunvieh;Reposición
+Bovinos;Braunvieh;Reproductoras hembra
+Bovinos;Bruna de los Pirineos;Reproductoras hembra
+Bovinos;Cachena;Reproductoras hembra
+Bovinos;Cachena;Reproductores macho
+Bovinos;Canaria;Cebo
+Bovinos;Canaria;Reposición
+Bovinos;Canaria;Reproductoras hembra
+Bovinos;Canaria;Reproductores macho
+Bovinos;Cebú;Reproductoras hembra
+Bovinos;Cebú;Reproductores macho
+Bovinos;Charolaise;Cebo
+Bovinos;Charolaise;Reproductoras hembra
+Bovinos;Charolaise;Reproductores macho
+Bovinos;Dexter;Reposición
+Bovinos;Dexter;Reproductoras hembra
+Bovinos;Dexter;Reproductores macho
+Bovinos;Fleickvieh;Cebo
+Bovinos;Fleickvieh;Reposición
+Bovinos;Fleickvieh;Reproductoras hembra
+Bovinos;Fleickvieh;Reproductores macho
+Bovinos;Frisona Europea;Cebo
+Bovinos;Frisona Europea;Reposición
+Bovinos;Frisona Europea;Reproductoras hembra
+Bovinos;Frisona Europea;Reproductores macho
+Bovinos;Holstein Frisona;Cebo
+Bovinos;Holstein Frisona;Reposición
+Bovinos;Holstein Frisona;Reproductoras hembra
+Bovinos;Holstein Frisona;Reproductores macho
+Bovinos;Jersey;Cebo
+Bovinos;Jersey;Reposición
+Bovinos;Jersey;Reproductoras hembra
+Bovinos;Jersey;Reproductores macho
+Bovinos;Limousin;Cebo
+Bovinos;Limousin;Reposición
+Bovinos;Limousin;Reproductoras hembra
+Bovinos;Limousin;Reproductores macho
+Bovinos;Mertolenga;Cebo
+Bovinos;Mertolenga;Reproductores macho
+Bovinos;Mestiza;Cebo
+Bovinos;Mestiza;Reposición
+Bovinos;Mestiza;Reproductoras hembra
+Bovinos;Mestiza;Reproductores macho
+Bovinos;Montbeliarde;Cebo
+Bovinos;Montbeliarde;Reposición
+Bovinos;Montbeliarde;Reproductoras hembra
+Bovinos;Montbeliarde;Reproductores macho
+Bovinos;Normanda;Cebo
+Bovinos;Normanda;Reproductoras hembra
+Bovinos;Otro;Cebo
+Bovinos;Otro;Reposición
+Bovinos;Otro;Reproductoras hembra
+Bovinos;Otro;Reproductores macho
+Bovinos;Palmera;Cebo
+Bovinos;Palmera;Reposición
+Bovinos;Palmera;Reproductoras hembra
+Bovinos;Palmera;Reproductores macho
+Bovinos;Retinta;Cebo
+Bovinos;Retinta;Reproductoras hembra
+Bovinos;Roja Danesa;Reproductoras hembra
+Bovinos;Rubia Gallega;Reproductoras hembra
+Bovinos;Rubia Gallega;Reproductores macho
+Bovinos;Salers;Cebo
+Bovinos;Salers;Reproductoras hembra
+Bovinos;Simmentahl;Cebo
+Bovinos;Simmentahl;Reproductoras hembra
+Bovinos;Tarentaise;Cebo
+Caballos;Anglo-Árabe;Animales con menos de 6 meses
+Caballos;Anglo-Árabe;Animales mayores de 12 meses y menores de 36 meses
+Caballos;Anglo-Árabe;Hembras de vientre con más de 36 meses
+Caballos;Anglo-Árabe;No reproductores con más de 36 meses
+Caballos;Anglo-Árabe;Sementales con más de 36 meses
+Caballos;Appalossa;Hembras de vientre con más de 36 meses
+Caballos;Appalossa;No reproductores con más de 36 meses
+Caballos;Appalossa;Sementales con más de 36 meses
+Caballos;Baden-Württemberg;Hembras de vientre con más de 36 meses
+Caballos;Belgian Warmblood;Hembras de vientre con más de 36 meses
+Caballos;Belgian Warmblood;No reproductores con más de 36 meses
+Caballos;British Sport Horse;Hembras de vientre con más de 36 meses
+Caballos;British Sport Horse;No reproductores con más de 36 meses
+Caballos;Caballo de Deporte Español;Animales mayores de 12 meses y menores de 36 meses
+Caballos;Caballo de Deporte Español;Animales mayores de 6 meses y menores de 12 meses
+Caballos;Caballo de Deporte Español;Hembras de vientre con más de 36 meses
+Caballos;Caballo de Deporte Español;No reproductores con más de 36 meses
+Caballos;Caballo de Deporte Español;Sementales con más de 36 meses
+Caballos;Caballo de Deporte Portugués;Sementales con más de 36 meses
+Caballos;Danés;Hembras de vientre con más de 36 meses
+Caballos;Danés;No reproductores con más de 36 meses
+Caballos;Falabella;Animales mayores de 6 meses y menores de 12 meses
+Caballos;Falabella;Hembras de vientre con más de 36 meses
+Caballos;Haflinger/Avelignese;No reproductores con más de 36 meses
+Caballos;Hannoveriano;Animales mayores de 12 meses y menores de 36 meses
+Caballos;Hannoveriano;Hembras de vientre con más de 36 meses
+Caballos;Hannoveriano;No reproductores con más de 36 meses
+Caballos;Hannoveriano;Sementales con más de 36 meses
+Caballos;Hispano-Bretón;No reproductores con más de 36 meses
+Caballos;Hispano-Árabe;Animales con menos de 6 meses
+Caballos;Hispano-Árabe;Animales mayores de 12 meses y menores de 36 meses
+Caballos;Hispano-Árabe;Hembras de vientre con más de 36 meses
+Caballos;Hispano-Árabe;No reproductores con más de 36 meses
+Caballos;Hispano-Árabe;Sementales con más de 36 meses
+Caballos;Holsteiner;No reproductores con más de 36 meses
+Caballos;Irish Cob;Sementales con más de 36 meses
+Caballos;Koninklijk Warmbloed Paardenstamboek Nederland (KWPN);Hembras de vientre con más de 36 meses
+Caballos;Koninklijk Warmbloed Paardenstamboek Nederland (KWPN);No reproductores con más de 36 meses
+Caballos;Mestiza;Animales con menos de 6 meses
+Caballos;Mestiza;Animales mayores de 12 meses y menores de 36 meses
+Caballos;Mestiza;Animales mayores de 6 meses y menores de 12 meses
+Caballos;Mestiza;Hembras de vientre con más de 36 meses
+Caballos;Mestiza;No reproductores con más de 36 meses
+Caballos;Mestiza;Sementales con más de 36 meses
+Caballos;Oldenburger;No reproductores con más de 36 meses
+Caballos;Otro;Animales mayores de 12 meses y menores de 36 meses
+Caballos;Otro;Animales mayores de 6 meses y menores de 12 meses
+Caballos;Otro;Hembras de vientre con más de 36 meses
+Caballos;Otro;No reproductores con más de 36 meses
+Caballos;Otro;Sementales con más de 36 meses
+Caballos;Paint Horse;Animales mayores de 12 meses y menores de 36 meses
+Caballos;Paint Horse;Hembras de vientre con más de 36 meses
+Caballos;Percherón;Hembras de vientre con más de 36 meses
+Caballos;Pony Shetland;Hembras de vientre con más de 36 meses
+Caballos;Pony Shetland;No reproductores con más de 36 meses
+Caballos;Pony Shetland;Sementales con más de 36 meses
+Caballos;Pura Raza Española (PRE);Animales con menos de 6 meses
+Caballos;Pura Raza Española (PRE);Animales mayores de 12 meses y menores de 36 meses
+Caballos;Pura Raza Española (PRE);Animales mayores de 6 meses y menores de 12 meses
+Caballos;Pura Raza Española (PRE);Hembras de vientre con más de 36 meses
+Caballos;Pura Raza Española (PRE);No reproductores con más de 36 meses
+Caballos;Pura Raza Española (PRE);Sementales con más de 36 meses
+Caballos;Pura Raza Árabe (PRA);Animales mayores de 12 meses y menores de 36 meses
+Caballos;Pura Raza Árabe (PRA);Animales mayores de 6 meses y menores de 12 meses
+Caballos;Pura Raza Árabe (PRA);Hembras de vientre con más de 36 meses
+Caballos;Pura Raza Árabe (PRA);No reproductores con más de 36 meses
+Caballos;Pura Raza Árabe (PRA);Sementales con más de 36 meses
+Caballos;Pura Sangre Inglés (PSI);Animales mayores de 12 meses y menores de 36 meses
+Caballos;Pura Sangre Inglés (PSI);Hembras de vientre con más de 36 meses
+Caballos;Pura Sangre Inglés (PSI);No reproductores con más de 36 meses
+Caballos;Pura Sangre Inglés (PSI);Sementales con más de 36 meses
+Caballos;Puro Sangre Lusitano;Hembras de vientre con más de 36 meses
+Caballos;Puro Sangre Lusitano;No reproductores con más de 36 meses
+Caballos;Puro Sangre Lusitano;Sementales con más de 36 meses
+Caballos;Póney Cruzado;Animales con menos de 6 meses
+Caballos;Póney Cruzado;Animales mayores de 12 meses y menores de 36 meses
+Caballos;Póney Cruzado;Animales mayores de 6 meses y menores de 12 meses
+Caballos;Póney Cruzado;Desconocido
+Caballos;Póney Cruzado;Hembras de vientre con más de 36 meses
+Caballos;Póney Cruzado;No reproductores con más de 36 meses
+Caballos;Póney Cruzado;Sementales con más de 36 meses
+Caballos;Quarter Horse;Animales mayores de 12 meses y menores de 36 meses
+Caballos;Quarter Horse;Hembras de vientre con más de 36 meses
+Caballos;Quarter Horse;No reproductores con más de 36 meses
+Caballos;Quarter Horse;Sementales con más de 36 meses
+Caballos;Selle Francais;No reproductores con más de 36 meses
+Caballos;Shagya;No reproductores con más de 36 meses
+Caballos;Shire;Hembras de vientre con más de 36 meses
+Caballos;Trotón Francés;No reproductores con más de 36 meses
+Caballos;Welsh;Hembras de vientre con más de 36 meses
+Camellos;Desconocido;Total
+Caprinos;Agrupación Canaria;Cebo
+Caprinos;Agrupación Canaria;No reproductores de 4 a 12 meses
+Caprinos;Agrupación Canaria;No reproductores menores de 4 meses
+Caprinos;Agrupación Canaria;Reproductoras hembra
+Caprinos;Agrupación Canaria;Reproductores macho
+Caprinos;Desconocido;Cebo
+Caprinos;Desconocido;No reproductores de 4 a 12 meses
+Caprinos;Desconocido;Reproductoras hembra
+Caprinos;Desconocido;Reproductores macho
+Caprinos;Majorera;Cebo
+Caprinos;Majorera;No reproductores de 4 a 12 meses
+Caprinos;Majorera;No reproductores menores de 4 meses
+Caprinos;Majorera;Reproductoras hembra
+Caprinos;Majorera;Reproductores macho
+Caprinos;Mestiza;No reproductores de 4 a 12 meses
+Caprinos;Mestiza;No reproductores menores de 4 meses
+Caprinos;Mestiza;Reproductoras hembra
+Caprinos;Mestiza;Reproductores macho
+Caprinos;Otro;No reproductores de 4 a 12 meses
+Caprinos;Otro;No reproductores menores de 4 meses
+Caprinos;Otro;Reproductoras hembra
+Caprinos;Otro;Reproductores macho
+Caprinos;Palmera;No reproductores de 4 a 12 meses
+Caprinos;Palmera;No reproductores menores de 4 meses
+Caprinos;Palmera;Reproductoras hembra
+Caprinos;Palmera;Reproductores macho
+Caprinos;Saanen;Reproductoras hembra
+Caprinos;Tinerfeña;Cebo
+Caprinos;Tinerfeña;No reproductores de 4 a 12 meses
+Caprinos;Tinerfeña;No reproductores menores de 4 meses
+Caprinos;Tinerfeña;Reproductoras hembra
+Caprinos;Tinerfeña;Reproductores macho
+Caracoles;Desconocido;Total
+Codornices;Desconocido;Granjas de cría para carne
+Codornices;Desconocido;Granjas de cría para huevos (aves de explotación)
+Codornices;Desconocido;Granjas de producción para carne
+Codornices;Desconocido;Granjas de producción para caza para repoblación
+Codornices;Desconocido;Granjas de producción para huevos
+Conejos;Angora;Madres
+Conejos;Angora;Padres
+Conejos;Angora;Reposición
+Conejos;Californiana;Abuelas
+Conejos;Californiana;Cebo
+Conejos;Californiana;Madres
+Conejos;Californiana;Padres
+Conejos;Californiana;Reposición
+Conejos;Californiana;Reproductoras hembra
+Conejos;Californiana;Reproductores macho
+Conejos;Común Gris Español;Abuelas
+Conejos;Común Gris Español;Abuelos
+Conejos;Común Gris Español;Cebo
+Conejos;Común Gris Español;Madres
+Conejos;Común Gris Español;Padres
+Conejos;Común Gris Español;Reposición
+Conejos;Común Gris Español;Reproductoras hembra
+Conejos;Común Gris Español;Reproductores macho
+Conejos;Común Pardo Español;Cebo
+Conejos;Común Pardo Español;Madres
+Conejos;Común Pardo Español;Otro
+Conejos;Común Pardo Español;Padres
+Conejos;Común Pardo Español;Reposición
+Conejos;Común Pardo Español;Reproductoras hembra
+Conejos;Común Pardo Español;Reproductores macho
+Conejos;Desconocido;Abuelos
+Conejos;Desconocido;Cebo
+Conejos;Desconocido;Madres
+Conejos;Desconocido;Otro
+Conejos;Desconocido;Padres
+Conejos;Desconocido;Reposición
+Conejos;Desconocido;Reproductoras hembra
+Conejos;Desconocido;Reproductores macho
+Conejos;Gigante Español;Abuelas
+Conejos;Gigante Español;Cebo
+Conejos;Gigante Español;Madres
+Conejos;Gigante Español;Padres
+Conejos;Gigante Español;Reposición
+Conejos;Híbrido Selecto;Abuelas
+Conejos;Híbrido Selecto;Abuelos
+Conejos;Híbrido Selecto;Cebo
+Conejos;Híbrido Selecto;Madres
+Conejos;Híbrido Selecto;Padres
+Conejos;Híbrido Selecto;Reposición
+Conejos;Híbrido Selecto;Reproductoras hembra
+Conejos;Híbrido Selecto;Reproductores macho
+Conejos;Neozelandés;Abuelas
+Conejos;Neozelandés;Abuelos
+Conejos;Neozelandés;Cebo
+Conejos;Neozelandés;Madres
+Conejos;Neozelandés;Padres
+Conejos;Neozelandés;Reposición
+Conejos;Neozelandés;Reproductoras hembra
+Conejos;Neozelandés;Reproductores macho
+Conejos;Silvestre;Madres
+Conejos;Silvestre;Padres
+Conejos;Silvestre;Reposición
+Conejos;Silvestre;Reproductoras hembra
+Dorada (Sparus aurata);No aplicable;Kgs de adultos de engorde
+Dorada (Sparus aurata);No aplicable;Kgs de huevos
+Dorada (Sparus aurata);No aplicable;Kgs de reproductores
+Dorada (Sparus aurata);No aplicable;Nº de adultos de engorde
+Dorada (Sparus aurata);No aplicable;Nº de alevines
+Dorada (Sparus aurata);No aplicable;Nº de reproductores
+Dromedarios;Desconocido;Total
+Emúes;Desconocido;Granjas de producción para carne
+Faisanes;Desconocido;Desconocido
+Faisanes;Desconocido;Granjas de cría para huevos (aves de explotación)
+Faisanes;Desconocido;Granjas de producción para carne
+Faisanes;Desconocido;Granjas de producción para huevos
+Gallinas;Desconocido;Desconocido
+Gallinas;Desconocido;Granjas de cría para carne
+Gallinas;Desconocido;Granjas de cría para huevos (aves de explotación)
+Gallinas;Desconocido;Granjas de multiplicación para carne
+Gallinas;Desconocido;Granjas de multiplicación para huevos
+Gallinas;Desconocido;Granjas de producción para carne
+Gallinas;Desconocido;Granjas de producción para huevos. Campera
+Gallinas;Desconocido;Granjas de producción para huevos. Ecológica
+Gallinas;Desconocido;Granjas de producción para huevos. En jaula
+Gallinas;Desconocido;Granjas de producción para huevos. En suelo
+Gallinas;Desconocido;Granjas de selección para carne
+Gallinas;Desconocido;Granjas de selección para huevos
+Gallinas;Desconocido;Incubadoras
+Gamos;Desconocido;Total
+Lubina o robalo (Dicentrarchus labrax);No aplicable;Kgs de adultos de engorde
+Lubina o robalo (Dicentrarchus labrax);No aplicable;Kgs de reproductores
+Lubina o robalo (Dicentrarchus labrax);No aplicable;Nº de adultos de engorde
+Lubina o robalo (Dicentrarchus labrax);No aplicable;Nº de alevines
+Lubina o robalo (Dicentrarchus labrax);No aplicable;t de adultos de engorde / año
+Mero (Epinephelus marginatus);No aplicable;Nº de reproductores
+Mulas;Mestiza;Animales con menos de 6 meses
+Mulas;Mestiza;Animales mayores de 12 meses y menores de 36 meses
+Mulas;Mestiza;Hembras de vientre con más de 36 meses
+Mulas;Mestiza;No reproductores con más de 36 meses
+Mulas;Mestiza;Sementales con más de 36 meses
+Ocas;Desconocido;Granjas de cría para carne
+Ocas;Desconocido;Granjas de producción para carne
+Ocas;Desconocido;Granjas de producción para huevos
+Otras ratites;Desconocido;Granjas de producción para carne
+Ovinos;Canaria;Cebo
+Ovinos;Canaria;No reproductores de 4 a 12 meses
+Ovinos;Canaria;No reproductores menores de 4 meses
+Ovinos;Canaria;Reproductoras hembra
+Ovinos;Canaria;Reproductores macho
+Ovinos;Canaria de Pelo;Cebo
+Ovinos;Canaria de Pelo;No reproductores de 4 a 12 meses
+Ovinos;Canaria de Pelo;No reproductores menores de 4 meses
+Ovinos;Canaria de Pelo;Reproductoras hembra
+Ovinos;Canaria de Pelo;Reproductores macho
+Ovinos;Carranzana;Reproductoras hembra
+Ovinos;Carranzana;Reproductores macho
+Ovinos;Desconocido;Cebo
+Ovinos;Desconocido;No reproductores de 4 a 12 meses
+Ovinos;Desconocido;No reproductores menores de 4 meses
+Ovinos;Desconocido;Reproductoras hembra
+Ovinos;Desconocido;Reproductores macho
+Ovinos;Mestiza;No reproductores de 4 a 12 meses
+Ovinos;Mestiza;No reproductores menores de 4 meses
+Ovinos;Mestiza;Reproductoras hembra
+Ovinos;Mestiza;Reproductores macho
+Ovinos;Palmera;Cebo
+Ovinos;Palmera;No reproductores de 4 a 12 meses
+Ovinos;Palmera;No reproductores menores de 4 meses
+Ovinos;Palmera;Reproductoras hembra
+Ovinos;Palmera;Reproductores macho
+Palomas;Desconocido;Desconocido
+Palomas;Desconocido;Granjas de cría para carne
+Palomas;Desconocido;Granjas de cría para huevos (aves de explotación)
+Palomas;Desconocido;Granjas de multiplicación para huevos
+Palomas;Desconocido;Granjas de producción para carne
+Palomas;Desconocido;Granjas de selección para huevos
+Patos;Desconocido;Granjas de cría para carne
+Patos;Desconocido;Granjas de cría para huevos (aves de explotación)
+Patos;Desconocido;Granjas de multiplicación para huevos
+Patos;Desconocido;Granjas de producción para carne
+Patos;Desconocido;Granjas de producción para huevos
+Pavos;Desconocido;Desconocido
+Pavos;Desconocido;Granjas de cría para carne
+Pavos;Desconocido;Granjas de cría para huevos (aves de explotación)
+Pavos;Desconocido;Granjas de multiplicación para carne
+Pavos;Desconocido;Granjas de multiplicación para huevos
+Pavos;Desconocido;Granjas de producción para carne
+Pavos;Desconocido;Granjas de producción para huevos
+Perdices;Desconocido;Granjas de cría para carne
+Perdices;Desconocido;Granjas de cría para caza para repoblación
+Perdices;Desconocido;Granjas de cría para huevos (aves de explotación)
+Perdices;Desconocido;Granjas de multiplicación para caza
+Perdices;Desconocido;Granjas de producción para carne
+Perdices;Desconocido;Granjas de producción para caza para repoblación
+Perdices;Desconocido;Granjas de selección para caza para repoblación
+Pez de limón (Seriola dumerili);No aplicable;Nº de reproductores
+Pintadas;Desconocido;Granjas de multiplicación para huevos
+Pintadas;Desconocido;Granjas de producción para carne
+Pintadas;Desconocido;Granjas de producción para huevos
+Porcinos;Blanco Belga;Cebo
+Porcinos;Blanco Belga;Cerdas
+Porcinos;Blanco Belga;Lechones
+Porcinos;Blanco Belga;Verracos
+Porcinos;Desconocido;Cebo
+Porcinos;Desconocido;Cerdas
+Porcinos;Desconocido;Lechones
+Porcinos;Desconocido;Recría/Transición
+Porcinos;Desconocido;Verracos
+Porcinos;Ibérico;Cerdas
+Porcinos;Ibérico;Lechones
+Porcinos;Ibérico;Reposición
+Porcinos;Ibérico;Verracos
+Porcinos;Large White;Cebo
+Porcinos;Large White;Cerdas
+Porcinos;Mestiza;Cebo
+Porcinos;Mestiza;Cerdas
+Porcinos;Mestiza;Lechones
+Porcinos;Mestiza;Recría/Transición
+Porcinos;Mestiza;Reposición
+Porcinos;Mestiza;Verracos
+Porcinos;Mestizo L-BB;Cebo
+Porcinos;Mestizo L-BB;Cerdas
+Porcinos;Mestizo LW-BB;Cerdas
+Porcinos;Mestizo LW-BB;Lechones
+Porcinos;Negra Canaria;Cebo
+Porcinos;Negra Canaria;Cerdas
+Porcinos;Negra Canaria;Lechones
+Porcinos;Negra Canaria;Recría/Transición
+Porcinos;Negra Canaria;Reposición
+Porcinos;Negra Canaria;Verracos
+Porcinos;Pietrain;Verracos
+Porcinos;Yorkshire;Cebo
+Porcinos;Yorkshire;Cerdas
+Porcinos;Yorkshire;Lechones
+Porcinos;Yorkshire;Recría/Transición
+Porcinos;Yorkshire;Reposición
+Porcinos;Yorkshire;Verracos
+Pulpo (Octopus vulgaris);No aplicable;Nº de huevos
+Pulpo (Octopus vulgaris);No aplicable;Nº de reproductores
